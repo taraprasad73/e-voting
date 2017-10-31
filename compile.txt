@@ -1,0 +1,3 @@
+javac -cp ".;json_simple.jar" *.java
+
+java -cp json_simple.jar; all.GetEncryptedResult <json object>

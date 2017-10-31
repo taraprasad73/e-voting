@@ -1,0 +1,6 @@
+{
+	"candidateId" : "1"
+}
+v = 3 c = 3
+PrivateKey [lambda=12, preCalculatedDenominator=3]
+PublicKey [bits=6, n=35, nSquared=1225, g=11]
